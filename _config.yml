@@ -1,8 +1,23 @@
+name: The Legacy Creative
+favicon: null
 layout_spectrum: 0.7955753
 typography_spectrum: 0.5747905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8875206
-  lightness: 0.6945059
+  brandColors: []
   brandStrength: 0.1150943
+  lightness: 0.6945059
+  saturation: 0.8875206
   rhythmicContrast: 0.7527571
-name: The Legacy Creative
+purpose: []
