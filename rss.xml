@@ -4,7 +4,7 @@
         <description><![CDATA[The Legacy Creative]]></description>
         <link>http://thelegacycreative.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 07:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 07:43:51 GMT</lastBuildDate>
         <atom:link href="http://thelegacycreative.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://m.facebook.com/thelegacycreativemusic</link>
             <guid isPermaLink="false">830f9904-ab58-4780-b5ae-bb4ce8922581</guid>
             <pubDate>Sun, 21 Aug 2016 07:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdac4717-8b68-4adc-a920-f1f201d769a7.jpg" alt="" title="" />]]></description>
+            <link>http://thelegacycreative.com/21ea87dd-d1ae-42b8-ba33-13ece2a28e1f/index.html</link>
+            <guid isPermaLink="false">21ea87dd-d1ae-42b8-ba33-13ece2a28e1f</guid>
+            <pubDate>Sun, 21 Aug 2016 07:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
