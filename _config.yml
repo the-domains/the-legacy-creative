@@ -1,7 +1,19 @@
 name: The Legacy Creative
 favicon: null
-layout_spectrum: 0.7955753
-typography_spectrum: 0.5747905
+layout_spectrum: 0
+typography_spectrum: 0.6971651632338762
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
@@ -15,9 +27,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.1150943
-  lightness: 0.6945059
-  saturation: 0.8875206
-  rhythmicContrast: 0.7527571
+  brandColors:
+    - '#B6B6AC'
+    - '#FFFFFF'
+    - '#0A0F15'
+    - '#868F94'
+    - '#463D36'
+  brandStrength: 0.03404255
+  lightness: 0.0878247597720474
+  saturation: 0.530273170908913
+  rhythmicContrast: 0.5791242758277804
 purpose: []
