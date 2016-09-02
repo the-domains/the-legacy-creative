@@ -13,8 +13,8 @@ collections:
       number: 10
 color:
   saturation: 0.4957447
-  brandStrength: 0.4787234
-  lightness: 0.4872341
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#0C1526'
     - '#1B3570'
@@ -22,15 +22,15 @@ color:
     - '#27569E'
     - '#CFD5E1'
   rhythmicContrast: 0.493617
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: The Legacy Creative
 opengraph:
   image: null
