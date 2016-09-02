@@ -1,14 +1,40 @@
-layout_spectrum: 0.7769588
-typography_spectrum: 0.9352794
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.6065433
-  lightness: 0.3077972
-  brandStrength: 0.410113
-  rhythmicContrast: 0.328905
+  saturation: 0.8875206
+  brandStrength: 1
+  lightness: 0.6945059
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#6C5044'
+    - '#FFFFFF'
+    - '#D2B5A7'
+    - '#C57B5A'
+    - '#33231D'
+  rhythmicContrast: 0.7527571
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: The Legacy Creative
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5747905
+layout_spectrum: 0.7955753
