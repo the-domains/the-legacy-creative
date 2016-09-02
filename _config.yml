@@ -16,22 +16,22 @@ color:
   brandStrength: 0.4787234
   lightness: 0.4872341
   brandColors:
-    - '#212121'
-    - '#9FA7B1'
-    - '#FEE3C6'
-    - '#7C8D95'
-    - '#4A4C47'
+    - '#0C1526'
+    - '#1B3570'
+    - '#87A5C9'
+    - '#27569E'
+    - '#CFD5E1'
   rhythmicContrast: 0.493617
 cta:
   bucket: null
   version: null
   domain: null
+name: The Legacy Creative
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: The Legacy Creative
 opengraph:
   image: null
   type: null
